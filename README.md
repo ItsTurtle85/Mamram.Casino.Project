@@ -1,35 +1,31 @@
-# 🎮 Multi-Game Pygame Project
+# 🎮 Multi-Game Arcade Project (Pygame)
 
-This is a multi-game Pygame experience that includes:
-
-- 🧱 Super Matteo Bros (by Manor)
-- 👾 Space Invaders (by Omer)
-- 🎰 Slot Machine (by Idan)
-- 🎲 Roulette (by Adam & Itay)
-
-All games use a shared coin system stored in `Global Assets/coins_save.json`.
+This is a multi-game Python project built using **Pygame**, featuring a shared coin system across all games. All games are launched through a central menu and share one save file to store your coins and progress.
 
 ---
 
-## 📁 Folder Structure
+## 🧩 Included Games
 
-├───Global Assets
-│ ├───Images
-│ └───Sounds
-├───Main Menu Assets
-│ ├───Images
-│ └───Sounds
-├───Roulette Assets By Adam & Itay
-│ └───Sounds
-├───Slot Machine Assets By Idan
-│ ├───Images
-│ └───Sounds
-├───Space Invaders Assets By Omer
-│ ├───Images
-│ └───Sounds
-├───Super Matteo Bros Assets By Manor
-│ ├───Images
-│ └───Sounds
-├───main_menu.py
-├───install.bat
-└───requirements.txt
+- **🧱 Super Matteo Bros** – Classic Mario-style platformer
+- **👾 Space Invaders** – Alien shooter action
+- **🎰 Slot Machine** – Vegas-style coin gamble
+- **🎲 Roulette** – Spin-and-win randomness
+- **🧭 Main Menu** – Start screen to launch all games
+
+---
+
+## 🛠 Requirements
+
+- Python 3.8 or higher  
+- Pygame (`pip install pygame`)
+
+---
+
+## ⚙️ Setup Instructions
+
+1. ✅ Install Python: [python.org/downloads](https://www.python.org/downloads)  
+   Make sure to check **"Add Python to PATH"** during install.
+
+2. 📦 Install dependencies by running:
+   ```bash
+   pip install -r requirements.txt
