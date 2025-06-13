@@ -29,3 +29,4 @@ This is a multi-game Python project built using **Pygame**, featuring a shared c
 2. 📦 Install dependencies by running:
    ```bash
    pip install -r requirements.txt
+Or double-click install.bat (Windows only)
