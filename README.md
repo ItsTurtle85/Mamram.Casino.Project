@@ -32,18 +32,15 @@ This is a multi-game Python project built using **Pygame**, featuring a shared c
 Or double-click install.bat (Windows only)
 
 
-🧠 Notes
+## 🧠 Notes
+
 Works on Windows, Mac, or Linux (just use terminal on non-Windows)
-
 This project is for educational use
-
 All coin progress is saved automatically
 
-👥 Credits
+## 👥 Credits
+
 Manor – Super Matteo Bros
-
 Omer – Space Invaders
-
 Idan – Slot Machine
-
 Adam & Itay – Roulette
